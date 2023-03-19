@@ -1,2 +1,6 @@
-# bayesian-methods
-bayesian-methods
+# Bayesian Methods
+
+
+
+## References 
+
